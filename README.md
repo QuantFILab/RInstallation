@@ -1,4 +1,8 @@
-# Guideline for Installation R
+# Guideline for Installation R in Window
 
 ## Step 1: Install R
-## Step 2: Install R tool
+1.1. 
+1.2.
+## Step 2: Install Rtool
+
+## วิธีการลงโปรแกรม R
